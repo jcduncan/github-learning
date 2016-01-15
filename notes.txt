@@ -1,0 +1,5 @@
+git status
+	will return a list of all staged files waiting to be committed to the repo. A file must be added in order for it to be staged.
+git add [filename]
+	will stage a file so that, when git commit is called, the document will be sent to the repo.
+
